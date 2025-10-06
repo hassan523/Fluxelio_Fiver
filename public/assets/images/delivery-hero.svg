@@ -1,0 +1,98 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f8fafc" rx="20" ry="20"/>
+  
+  <!-- Road -->
+  <rect x="0" y="430" width="800" height="170" fill="#e2e8f0" rx="5" ry="5"/>
+  <line x1="40" y1="510" x2="140" y2="510" stroke="#94a3b8" stroke-width="10" stroke-dasharray="30,30"/>
+  <line x1="200" y1="510" x2="300" y2="510" stroke="#94a3b8" stroke-width="10" stroke-dasharray="30,30"/>
+  <line x1="360" y1="510" x2="460" y2="510" stroke="#94a3b8" stroke-width="10" stroke-dasharray="30,30"/>
+  <line x1="520" y1="510" x2="620" y2="510" stroke="#94a3b8" stroke-width="10" stroke-dasharray="30,30"/>
+  <line x1="680" y1="510" x2="780" y2="510" stroke="#94a3b8" stroke-width="10" stroke-dasharray="30,30"/>
+  
+  <!-- Delivery Van -->
+  <g transform="translate(550, 410) scale(0.7)">
+    <!-- Van Body -->
+    <rect x="50" y="100" width="250" height="100" rx="10" ry="10" fill="#e5573c"/>
+    <rect x="300" y="120" width="100" height="80" rx="5" ry="5" fill="#842990"/>
+    <rect x="50" y="190" width="350" height="10" fill="#333333"/>
+    
+    <!-- Windows -->
+    <rect x="310" y="130" width="80" height="40" rx="5" ry="5" fill="#bfdbfe"/>
+    <rect x="70" y="120" width="50" height="40" rx="5" ry="5" fill="#bfdbfe"/>
+    
+    <!-- Wheels -->
+    <circle cx="120" cy="210" r="30" fill="#020617"/>
+    <circle cx="120" cy="210" r="15" fill="#94a3b8"/>
+    <circle cx="320" cy="210" r="30" fill="#020617"/>
+    <circle cx="320" cy="210" r="15" fill="#94a3b8"/>
+    
+    <!-- Lights -->
+    <rect x="50" y="150" width="10" height="20" fill="#fef08a"/>
+    <rect x="400" y="150" width="10" height="20" fill="#fef08a"/>
+    
+    <!-- Logo -->
+    <circle cx="175" cy="150" r="30" fill="#ffffff"/>
+    <text x="155" y="160" font-family="Arial" font-size="24" font-weight="bold" fill="#e5573c">LS</text>
+  </g>
+  
+  <!-- Buildings -->
+  <rect x="50" y="100" width="120" height="330" fill="#cbd5e1"/>
+  <rect x="70" y="130" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="120" y="130" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="70" y="190" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="120" y="190" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="70" y="250" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="120" y="250" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="70" y="310" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="120" y="310" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="70" y="370" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="120" y="370" width="30" height="40" fill="#bfdbfe"/>
+  
+  <rect x="200" y="150" width="140" height="280" fill="#94a3b8"/>
+  <rect x="220" y="180" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="290" y="180" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="220" y="240" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="290" y="240" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="220" y="300" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="290" y="300" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="220" y="360" width="30" height="40" fill="#bfdbfe"/>
+  <rect x="290" y="360" width="30" height="40" fill="#bfdbfe"/>
+  
+  <!-- Package -->
+  <g transform="translate(150, 350) scale(0.5)">
+    <rect x="50" y="100" width="80" height="80" fill="#842990"/>
+    <line x1="50" y1="100" x2="130" y2="100" stroke="#333333" stroke-width="4"/>
+    <line x1="50" y1="140" x2="130" y2="140" stroke="#333333" stroke-width="4"/>
+    <line x1="50" y1="180" x2="130" y2="180" stroke="#333333" stroke-width="4"/>
+    <line x1="50" y1="100" x2="50" y2="180" stroke="#333333" stroke-width="4"/>
+    <line x1="90" y1="100" x2="90" y2="180" stroke="#333333" stroke-width="4"/>
+    <line x1="130" y1="100" x2="130" y2="180" stroke="#333333" stroke-width="4"/>
+  </g>
+  
+  <!-- Sun -->
+  <circle cx="700" cy="100" r="50" fill="#fde68a"/>
+  <line x1="700" y1="30" x2="700" y2="10" stroke="#e5573c" stroke-width="8"/>
+  <line x1="700" y1="170" x2="700" y2="190" stroke="#e5573c" stroke-width="8"/>
+  <line x1="630" y1="100" x2="610" y2="100" stroke="#e5573c" stroke-width="8"/>
+  <line x1="770" y1="100" x2="790" y2="100" stroke="#e5573c" stroke-width="8"/>
+  <line x1="645" y1="45" x2="630" y2="30" stroke="#e5573c" stroke-width="8"/>
+  <line x1="755" y1="155" x2="770" y2="170" stroke="#e5573c" stroke-width="8"/>
+  <line x1="645" y1="155" x2="630" y2="170" stroke="#e5573c" stroke-width="8"/>
+  <line x1="755" y1="45" x2="770" y2="30" stroke="#e5573c" stroke-width="8"/>
+  
+  <!-- Clouds -->
+  <ellipse cx="200" cy="80" rx="60" ry="30" fill="#f8fafc"/>
+  <ellipse cx="240" cy="70" rx="40" ry="25" fill="#f8fafc"/>
+  <ellipse cx="160" cy="70" rx="40" ry="25" fill="#f8fafc"/>
+  
+  <ellipse cx="420" cy="50" rx="50" ry="25" fill="#f8fafc"/>
+  <ellipse cx="450" cy="40" rx="30" ry="20" fill="#f8fafc"/>
+  <ellipse cx="390" cy="40" rx="30" ry="20" fill="#f8fafc"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="90" cy="240" r="15" fill="#e5573c" opacity="0.2"/>
+  <circle cx="320" cy="120" r="20" fill="#842990" opacity="0.2"/>
+  <circle cx="580" cy="200" r="25" fill="#e5573c" opacity="0.2"/>
+  <circle cx="450" cy="350" r="18" fill="#842990" opacity="0.2"/>
+</svg> 

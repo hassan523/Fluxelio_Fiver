@@ -1,0 +1,204 @@
+{
+    "parcelData": [
+      {
+        "_id": "1005",
+        "name": "Jacks",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      },
+      {
+        "_id": "1006",
+        "name": "John Jacks",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      },
+      {
+        "_id": "1007",
+        "name": "Niko",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      },
+      {
+        "_id": "1008",
+        "name": "Ally",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      },
+      {
+        "_id": "1009",
+        "name": "Smith",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      },
+      {
+        "_id": "1010",
+        "name": "John",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      },
+      {
+        "_id": "1012",
+        "name": "John",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      },
+      {
+        "_id": "1013",
+        "name": "John",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      },
+      {
+        "_id": "1014",
+        "name": "John",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      },
+      {
+        "_id": "1015",
+        "name": "John",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      },
+      {
+        "_id": "1016",
+        "name": "John",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      },
+      {
+        "_id": "1017",
+        "name": "John",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      },
+      {
+        "_id": "1011",
+        "name": "John Smith",
+        "etdDate": "12/08/25",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "status": "Paid"
+      }
+    ],
+    "TransactionsStatistics":[
+        { "name": "Jan", "revenue": 80000, "expenses": 74400, "month": 1, "year": 2023 },
+        { "name": "Feb", "revenue": 69962, "expenses": 71906.32147469402, "month": 2, "year": 2023 },
+        { "name": "Mar", "revenue": 54981, "expenses": 76656.14561460383, "month": 3, "year": 2023 },
+        { "name": "Apr", "revenue": 42680, "expenses": 86755.2082840412, "month": 4, "year": 2023 },
+        { "name": "May", "revenue": 38271, "expenses": 90785.65248463136, "month": 5, "year": 2023 },
+        { "name": "Jun", "revenue": 13277, "expenses": 98993.1547443, "month": 6, "year": 2023 },
+        { "name": "Jul", "revenue": 10000, "expenses": 101648.9811558639, "month": 7, "year": 2023 },
+        { "name": "Aug", "revenue": 10000, "expenses": 115929.55391101589, "month": 8, "year": 2023 },
+        { "name": "Sep", "revenue": 10000, "expenses": 136631.96663836695, "month": 9, "year": 2023 },
+        { "name": "Oct", "revenue": 10000, "expenses": 160000, "month": 10, "year": 2023 },
+        { "name": "Nov", "revenue": 10000, "expenses": 160000, "month": 11, "year": 2023 },
+        { "name": "Dec", "revenue": 10000, "expenses": 160000, "month": 12, "year": 2023 }
+      ],
+    "RevenueStatistics":[
+        { "name": "Jan", "revenue": 80000,"balance": 804500, "expenses": 74400, "month": 1, "year": 2023 },
+        { "name": "Feb", "revenue": 69962,"balance": 456261, "expenses": 71906.32147469402, "month": 2, "year": 2023 },
+        { "name": "Mar", "revenue": 54981,"balance": 458151, "expenses": 76656.14561460383, "month": 3, "year": 2023 },
+        { "name": "Apr", "revenue": 42680,"balance": 458065, "expenses": 86755.2082840412, "month": 4, "year": 2023 },
+        { "name": "May", "revenue": 38271,"balance": 457135, "expenses": 90785.65248463136, "month": 5, "year": 2023 },
+        { "name": "Jun", "revenue": 13277,"balance": 457719, "expenses": 98993.1547443, "month": 6, "year": 2023 },
+        { "name": "Jul", "revenue": 10000,"balance": 450035, "expenses": 101648.9811558639, "month": 7, "year": 2023 },
+        { "name": "Aug", "revenue": 10000,"balance": 450035, "expenses": 115929.55391101589, "month": 8, "year": 2023 },
+        { "name": "Sep", "revenue": 10000,"balance": 450038, "expenses": 136631.96663836695, "month": 9, "year": 2023 },
+        { "name": "Oct", "revenue": 10000,"balance": 450057, "expenses": 160000, "month": 10, "year": 2023 },
+        { "name": "Nov", "revenue": 10000,"balance": 450059, "expenses": 160000, "month": 11, "year": 2023 },
+        { "name": "Dec", "revenue": 10000,"balance": 450043, "expenses": 160000, "month": 12, "year": 2023 }
+      ],
+      "ticketData": [
+    {
+      "_id": "1005",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "Open"
+    },
+    {
+      "_id": "1006",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "In Progress"
+    },
+    {
+      "_id": "1007",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "Resolved"
+    },
+    {
+      "_id": "1008",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "Closed"
+    },
+    {
+      "_id": "1009",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "Open"
+    },
+    {
+      "_id": "1010",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "In Progress"
+    },
+    {
+      "_id": "1012",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "Resolved"
+    },
+    {
+      "_id": "1013",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "Closed"
+    },
+    {
+      "_id": "1014",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "Open"
+    },
+    {
+      "_id": "1015",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "In Progress"
+    },
+    {
+      "_id": "1016",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "Resolved"
+    },
+    {
+      "_id": "1017",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "Closed"
+    },
+    {
+      "_id": "1011",
+      "reason": "Lorem issue",
+      "etdDate": "2025-08-12",
+      "status": "Open"
+    }
+  ]
+  }
+  

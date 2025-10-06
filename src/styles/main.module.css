@@ -1,0 +1,28 @@
+.order_detail_header{
+    background-color: #D8788C;
+    margin: 10px auto;
+    color: #fff;
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  .order_detail table{
+    border: 1px solid #D8788C;
+    width: 100%;
+  }
+  
+  .order_detail table thead{
+    background-color: #D8788C;
+    color: #fff;
+  }
+  .order_detail table thead th{
+    padding: 10px;
+  }
+  
+  .order_detail table tbody td{
+    padding: 10px;
+    border: 1px solid #D8788C;
+  }
