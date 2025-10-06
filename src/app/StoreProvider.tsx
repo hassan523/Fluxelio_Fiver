@@ -1,6 +1,6 @@
 "use client";
 
-import { store } from "@/redux/Store";
+import { store } from "@/Redux/Store";
 import React, { ReactNode, useEffect, useState } from "react";
 import { Provider } from "react-redux";
 
