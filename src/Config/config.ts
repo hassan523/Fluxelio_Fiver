@@ -1,3 +1,3 @@
 export const configURL = {
-   url: "http://localhost:5000",
+   url: "https://fluxelio-backend.vercel.app/",
 };
